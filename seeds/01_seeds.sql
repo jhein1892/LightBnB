@@ -3,7 +3,7 @@ VALUES ('Willy Wonka', 'oompaloomps2@choco.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmez
 ('Tina Turner', 'tinasturning@leftturn.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.'),
 ('Kermit The Frog', 'misspiggy@love4life.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.');
 
-INSERT INTO properties (owner_id, title, thumbnail_photo_url, cover_photo_url, cost_per_night, parking_spaces, number_of_batherooms, number_of_bedrooms, country, street, city, province, post_code)
+INSERT INTO properties (owner_id, title, thumbnail_photo_url, cover_photo_url, cost_per_night, parking_spaces, number_of_bathrooms, number_of_bedrooms, country, street, city, province, post_code)
 
 VALUES (1, 'chocolate factory', 'url.com', 'url.com', 12, 100, 4, 5, 'England', '123 Street', 'Birmingham', 'GB', '1A2B6C'),
 
